@@ -37,7 +37,7 @@ Paper: [GQA: Training Generalized Multi-Query Transformer Models from Multi-Head
 
 ## Results
 
-![Training and validation loss](Images/loss_curve.png)
+![Training and validation loss](images/loss_curve.png)
 
 | | Value |
 |---|---|
