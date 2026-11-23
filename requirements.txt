@@ -1,0 +1,5 @@
+torch>=2.0
+tiktoken
+transformers
+matplotlib
+jupyter
